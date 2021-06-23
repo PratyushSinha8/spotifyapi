@@ -12,3 +12,4 @@ TOOLS USED:
 2)	Seaborn and matplotlib for data visualization
 3)	Pandas and numpy for data analysis
   
+We first create the 'indie.csv' and 'indie_d.csv' files with 'Spotify_Scraping.ipynb'. Then, we use them in 'Spotif_DataAnalysis.ipynb' for Data Analysis.
