@@ -11,3 +11,4 @@ TOOLS USED:
 1)	Spotify API to access music data
 2)	Seaborn and matplotlib for data visualization
 3)	Pandas and numpy for data analysis
+  
